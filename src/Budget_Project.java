@@ -6,6 +6,9 @@ public class Budget_Project {
     public static void main(String args[]){
 
         System.out.println("stuff");
+        System.out.print("david sucks");
+        System.out.print("david sucks");
+        System.out.print("david sucks");
 
 
 
