@@ -1,0 +1,16 @@
+DATABASE:
+create
+read
+update
+delete
+
+function that takes bills gets there name and amount and adds to an array
+
+salaryChecker checks total of bills(monthly, or yearly) against the salary in question
+
+function that gets bills and adds them for monthly expenses
+
+graphs
+
+UI
+
