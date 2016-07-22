@@ -10,7 +10,11 @@ public class Budget_Project {
         System.out.print("david sucks");
         System.out.print("david sucks");
 
+        for(int i = 0; i < 1000000; i++){
 
+            System.out.println("brody loves the cack");
+
+        }
 
 
     }
