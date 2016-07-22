@@ -20,4 +20,27 @@ public class Budget_Project {
     }
 
 
+    dsfkjfdslfdaskj;lfdakjfw;lkwje;lrewjwrelkrewjrewlkrewjlrew
+
+    f
+            fdasfd
+                    fdasfdgh
+    h
+            d
+    public h getD() {
+        return .getString(R.string.fsfdfdsd)
+                ghhgdf
+
+                        gfd
+                        gds
+                                h
+                                toString()thher
+
+
+    }
+
+    das;jfdsjksfdjdgf
+    jfdsjksfdjdgf
+
+
 }
