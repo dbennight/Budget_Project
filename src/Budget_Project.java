@@ -7,41 +7,59 @@ import java.util.Scanner;
 public class Budget_Project {
 
 
-
-
-    public static void main(String args[]) throws IOException {
+    public static void main(String args[]) {
 
         double stuff;
         double stuff2;
-
+        Budget budget;
+        int menuNumber;
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Enter a number: ");
-        stuff = in.nextDouble();
-        System.out.print("Enter a another number: ");
-        stuff2  = in.nextDouble();
+        System.out.println("Welcome");
+        System.out.println();
+        System.out.println();
+        System.out.println("Track bills: 1");
+        System.out.println("Check salary in question: 2");
+        System.out.println("Get monthly bill total: 3");
+        System.out.println("Get yearly bill total: 4");
+        System.out.print("Enter number: ");
+        menuNumber = in.nextInt();
+        System.out.println(menuNumber);
 
-        if (SalaryChecker(stuff, stuff2)) {
-            System.out.println("its true an works");
+        switch (menuNumber){
 
+            case 1:
+
+                break;
+
+            case 2:
+
+                break;
+
+            case 3:
+
+                break;
+
+            case 4:
+
+                break;
+
+            default:
+
+                System.out.println("try something else");
 
         }
 
 
-    }
 
-    // come up with better name for salary checker
-    public static boolean SalaryChecker(double salary, double bills) {
 
-        if (salary >= bills) {
-            return true;
-        } else {
-            return false;
 
-        }
 
 
     }
+
+
+
 
 
 }
